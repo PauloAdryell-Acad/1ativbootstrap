@@ -1,0 +1,28 @@
+h1{
+	width:60%;
+	margin-left: 10%;
+	margin-top: -20%;
+}
+.navbar-nav{
+	margin-top: -20%;
+	position: relative;
+}
+.navbar-nav .nav-item{
+	display: inline-flex;
+}
+.historia{
+	position: relative;
+	margin-top: 20%;
+	margin-left: -20%;
+	display: flex;
+}
+img{
+	max-width: 400px;
+	max-height: 350px;
+	margin-bottom: 20%;
+}
+
+img:hover{
+	border: solid 4px black;
+	border-radius: 20px;
+}
